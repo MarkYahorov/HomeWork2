@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Light" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="backgroundColor">@color/white</item>
+        <item name="buttonColorAction">#27200C</item>
+        <item name="buttonColorNumber">#8A7825</item>
+        <item name="textColorAction">#BAAFEC</item>
+        <item name="textColorNumber">#343459</item>
+        <item name="textColor">@color/black</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+</resources>

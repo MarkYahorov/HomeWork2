@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="btns_action">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:background">?attr/buttonColorAction</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:textColor">?attr/textColorAction</item>
+    </style>
+
+    <style name="btns_number">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:background">?attr/buttonColorNumber</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:textColor">?attr/textColorNumber</item>
+    </style>
+
+    <style name="text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:gravity">end</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">?attr/backgroundColor</item>
+        <item name="android:textColor">?attr/textColor</item>
+    </style>
+</resources>
